@@ -5,7 +5,8 @@ namespace Cinema
         public string Title;
         public string Director;
         public int ReleaseYear;
-        public static int Count = 0;
+        // static field to keep track of number of Movie instances
+        public static int Count = 0;// you can access this field without creating an instance of Movie class
 
         public Movie(string title, string director, int releaseYear)
         {
