@@ -15,9 +15,9 @@ namespace ClassTut
         //try cat, exeption handling
         try{
                 Console.WriteLine("Enter first number");
-               int? a = int.Parse(Console.ReadLine());
+               int? a = int.Parse(Console.ReadLine()!);
                 Console.WriteLine("Enter second number");
-                int? b = int.Parse(Console.ReadLine());
+                int? b = int.Parse(Console.ReadLine()!);
                 int? sum = a / b;
                 Console.WriteLine("The division result is: " + sum);
             }
