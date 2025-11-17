@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\class-tut\\class-tut.csproj": {}
+    "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\C#-tutorial\\class-tut\\class-tut.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\class-tut\\class-tut.csproj": {
+    "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\C#-tutorial\\class-tut\\class-tut.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\class-tut\\class-tut.csproj",
+        "projectUniqueName": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\C#-tutorial\\class-tut\\class-tut.csproj",
         "projectName": "class-tut",
-        "projectPath": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\class-tut\\class-tut.csproj",
+        "projectPath": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\C#-tutorial\\class-tut\\class-tut.csproj",
         "packagesPath": "C:\\Users\\alfonce.yano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\class-tut\\obj\\",
+        "outputPath": "C:\\Users\\alfonce.yano\\OneDrive - Aga Khan University\\Desktop\\NB\\C#-tutorial\\class-tut\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

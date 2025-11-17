@@ -12,7 +12,25 @@ namespace ClassTut
         Console.WriteLine("Hello, World!");
         //Creating an object of the class person
         Person person1 = new Person("Alice", 30, true);
+        //try cat, exeption handling
+        try{
+                Console.WriteLine("Enter first number");
+               int? a = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter second number");
+                int? b = int.Parse(Console.ReadLine());
+                int? sum = a / b;
+                Console.WriteLine("The division result is: " + sum);
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine("An error occurred: " + ex.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Execution completed.");
+            }
         //declaring values to the properties of the object
+        
             
             person1.Greetings();
             Calculator calc = new Calculator();
@@ -22,6 +40,8 @@ namespace ClassTut
             Console.WriteLine("-----Movie Class Demo-----");
             Console.WriteLine
             ("Total Movies Created: " + Movie.Count);}
+
+            
 }
 
 }
